@@ -1,5 +1,7 @@
 # Rebus Transactions Demo
 
+Requires Docker and .NET 7 SDK.
+
 1. Run `docker compose up` to start RabbitMQ
 2. Run the `RebusTransactions` app
 3. Run the test project (should pass)
